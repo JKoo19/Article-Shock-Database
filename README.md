@@ -22,9 +22,13 @@ Searching for "ch" will return, for example, author names such as "Chelsea" or e
 
 ## Built With
 HTML
+
 CSS
+
 PHP
-PDO (http://php.net/manual/en/book.pdo.php)
+
+[PDO](http://php.net/manual/en/book.pdo.php)
+
 SQL
 
 ## Authors
