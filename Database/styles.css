@@ -1,0 +1,32 @@
+a:link{
+	color:blue;
+}
+a:hover
+{
+	color:red;
+}
+a:visited{
+	color:blue;
+}
+
+
+.links{
+	max-width:100%;
+	background-color:#9CFFFD;
+	padding-left:20px;
+	padding-top:30px;
+	padding-bottom:5px;
+	margin-bottom:5px;
+	white-space: nowrap;
+}
+
+.link{
+	max-width:100%;
+	padding-top:10px;
+	padding-left:20px;
+	padding-bottom:5px;
+	margin-bottom:40px;
+	line-height: 170%;
+	
+}
+
